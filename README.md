@@ -1,1 +1,1 @@
-# NTSF
+# NTSF: acesta este un proiect pentru Retele de calculatore in care a fost realizat jocul "Nu te supara frate!" folosind ca si cale de comunicare protocolul TCP/IP, astfel fiind posibila comunicare intre clienti si server.
